@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Button from "react-bootstrap/Button";
 import Modal from "react-bootstrap/Modal";
 import "./Admin/Pages/pages.css";
-import Profile from "./Profile";
+// import Profile from "./Profile";
 
 function ModalLogin() {
   const [lgShow, setLgShow] = useState(false);
@@ -23,7 +23,7 @@ function ModalLogin() {
           <Modal.Title id="example-modal-sizes-title-lg">Log Out</Modal.Title>
         </Modal.Header>
         <Modal.Body>
-          <Profile />
+          {/* <Profile /> */}
         </Modal.Body>
       </Modal>
     </>

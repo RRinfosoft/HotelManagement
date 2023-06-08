@@ -1,0 +1,32 @@
+.top{
+    /* background-image: linear-gradient(rgb(8, 17, 24), rgb(63,85,104)); */
+    background-color: black;
+ }
+ .home-parent{
+    width: 70%;
+    height:100%;
+    background-color: white;
+    box-shadow: 3px 2px 13px 1px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 3px 2px 13px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 2px 13px 1px rgba(0,0,0,0.75);
+    
+   padding-top: 10px;
+    margin: auto;
+
+  }
+
+  
+.aboutinput{
+  width: 80%;
+  margin: auto;
+  padding-top: 20px;
+}
+
+  .homediv{
+    background-color: black;
+    height: 50px;
+  }
+  .addbtn{
+    width: 120px;
+ 
+  }
