@@ -1,0 +1,32 @@
+.notification{
+    background-color: rgb(181, 178, 178);
+    border-radius: 10px;
+    margin: 10px;
+}
+.profile{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    position: relative;
+    top: 5px;
+    left: 5px;
+}
+.notificationWraper{
+    display: flex;
+}
+.notifiTime{
+    text-align: center;
+    position: relative;
+    top: -20px;
+    left: 10px;
+}
+.notifiText{
+    text-align: center;
+    position: relative;
+    top: 20px;
+    left: 5px; 
+}
+.notifi{
+    background-color: goldenrod;
+    color: black;
+}
