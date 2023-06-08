@@ -1,0 +1,28 @@
+.top {
+    /* background-image: linear-gradient(rgb(8, 17, 24), rgb(63,85,104)); */
+    background-color: black;
+}
+
+.form-parent {
+    width: 70%;
+    height: 100%;
+    background-color: white;
+    box-shadow: -1px 2px 12px 0px rgba(128, 128, 128, 0.75);
+    -webkit-box-shadow: -1px 2px 12px 0px rgba(128, 128, 128, 0.75);
+    -moz-box-shadow: -1px 2px 12px 0px rgba(128, 128, 128, 0.75);
+    padding-top: 30px;
+    margin: auto;
+    
+}
+
+.submit-btn {
+    width: 120px;
+    height: 40px;
+ 
+}
+
+.form-control {
+    width: 90%;
+    height: 40px;
+    margin: auto;
+}
